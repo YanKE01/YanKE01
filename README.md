@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @YanKE01
 - 👀 embedded system、Linux、Hardware Design
-- 🌱 Linux
 - 📫 yanke@zjut.edu.cn
 
 <!---
