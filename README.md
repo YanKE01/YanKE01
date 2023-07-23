@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @YanKE01
+### Hi there 👋
+- 👋 Hi, I’m Yanke
 - 👀 embedded system、Linux、Hardware Design
-- 📫 yanke@zjut.edu.cn
+
+### Page visitor counter
+![visitor counter](https://profile-counter.glitch.me/YanKE01/count.svg)
 
 <!---
 YanKE01/YanKE01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
